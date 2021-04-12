@@ -1,0 +1,15 @@
+
+Active calls info: {"19:pO5eCBPD78xR-l3s3qhlk_k8g_-nl2Ag-r0I2HYW4I41@thread.tacv2":{"callsMap":{},"calls":[]}}
+Last disposed calls:
+[]
+Calling Debug data: 
+
+	Layout: -1
+	Participant Manager Items Count: 0
+	PlusCount: 0
+	Optimal Video Count: 0
+	Roster info:
+
+isCallingPlanUser: false
+
+Emergency Numbers: {}
